@@ -1,0 +1,38 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500&family=Sora&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* style sheets */
+@import url('components/style.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+@import url('components/container.css');
+
+/* Utilities */
+body {
+margin: 0;
+font-family: 'Epilogue', sans-serif;
+}
+
+h1, h2, h3, h4 {
+font-family: 'Epilogue', sans-serif;
+}
+
+h1 {
+letter-spacing: 1.5px;
+}
+.text-center {
+text-align: center;
+}
+
+a {
+text-decoration: none;
+}
+
+/* Custom design below! */

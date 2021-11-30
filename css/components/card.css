@@ -1,0 +1,20 @@
+.card {
+  border-radius: 8px;
+  border: 1px solid grey;
+  box-shadow:0px 0px 15px rgb(0 0 0 /15%);
+  width: 250px;
+  padding: 10px;
+  text-align: center;
+  will-change: transform;
+  transition: all 1s;
+  margin-bottom: 20px;
+}
+.card:hover {
+color: black;
+transition: all 1s;
+transform: translateY(15px);
+}
+
+.card img {
+  height: 150px;
+}

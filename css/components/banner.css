@@ -1,0 +1,12 @@
+.banner {
+background-position: center;
+background-size: cover;
+object-fit: cover;
+padding: 150px 0;
+width: 100%;
+}
+
+.banner h1, .banner p {
+color: white;
+text-shadow: 1px 1px 1px lightgrey;
+}
